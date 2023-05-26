@@ -1,0 +1,27 @@
+{
+  "name": "jsdock",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aaditya-cpu/jsDock.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aaditya-cpu/jsDock/issues"
+  },
+  "homepage": "https://github.com/aaditya-cpu/jsDock#readme",
+  "dependencies": {
+    "bootstrap": "^5.2.3",
+    "d3": "^7.8.4",
+    "express": "^4.18.2",
+    "firebase": "^9.22.0",
+    "jquery": "^3.7.0"
+  }
+}
